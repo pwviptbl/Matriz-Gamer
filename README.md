@@ -1,2 +1,3 @@
 # Matriz-Gamer
-App Web Com Noticias e Ferramentas Para Games
+App Web Com Painel para Noticias e Ferramentas Para Games.
+https://matrizgamer.com/
