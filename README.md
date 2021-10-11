@@ -5,7 +5,7 @@
 
 <a href="https://matrizgamer.com/" target="_blank"> Matriz Gamer </a>
 <br><br>
-Laravel 8, VueJS 2, Bootstrap 5, MySQL, JWT Authentication, API REST.<br><br>
+Laravel 8, VueJS 2, Bootstrap 5,Tailwind CSS, MySQL, JWT Authentication, API REST.<br><br>
 
 <figure>
   <figcaption>Matriz Gamer Desktop</figcaption>
